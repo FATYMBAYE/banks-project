@@ -1,0 +1,84 @@
+2025-Feb-15-03:02:03:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-15-03:02:04:Extraction des données terminée. Démarrage du processus de transformation
+2025-Feb-15-03:02:04:Transformation des données terminée. Démarrage du processus de chargement
+2025-Feb-15-03:02:04:Données enregistrées dans le fichier CSV
+2025-Feb-15-03:02:04:Connexion SQL initiée
+2025-Feb-15-03:02:04:Données chargées dans la base de données sous forme de table, exécution des requêtes
+2025-Feb-15-03:02:04:	Processus terminé
+2025-Feb-15-03:02:04:Connexion au serveur fermée
+2025-Feb-15-03:10:56:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-15-03:10:57:Extraction des données terminée. Démarrage du processus de transformation
+2025-Feb-15-03:10:57:Transformation des données terminée. Démarrage du processus de chargement
+2025-Feb-15-03:10:57:Données enregistrées dans le fichier CSV
+2025-Feb-15-03:10:57:Connexion SQL initiée
+2025-Feb-15-03:10:57:Données chargées dans la base de données sous forme de table, exécution des requêtes
+2025-Feb-15-03:10:57:	Processus terminé
+2025-Feb-15-03:10:57:Connexion au serveur fermée
+2025-Feb-15-03:12:22:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-15-03:12:23:Extraction des données terminée. Démarrage du processus de transformation
+2025-Feb-15-03:12:23:Transformation des données terminée. Démarrage du processus de chargement
+2025-Feb-15-03:12:23:Données enregistrées dans le fichier CSV
+2025-Feb-15-03:12:23:Connexion SQL initiée
+2025-Feb-15-03:12:23:Données chargées dans la base de données sous forme de table, exécution des requêtes
+2025-Feb-15-03:12:23:	Processus terminé
+2025-Feb-15-03:12:23:Connexion au serveur fermée
+2025-Feb-15-03:13:04:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-15-03:13:04:Extraction des données terminée. Démarrage du processus de transformation
+2025-Feb-15-03:13:04:Transformation des données terminée. Démarrage du processus de chargement
+2025-Feb-15-03:13:04:Données enregistrées dans le fichier CSV
+2025-Feb-15-03:13:04:Connexion SQL initiée
+2025-Feb-15-03:13:04:Données chargées dans la base de données sous forme de table, exécution des requêtes
+2025-Feb-15-03:13:04:	Processus terminé
+2025-Feb-15-03:13:04:Connexion au serveur fermée
+2025-Feb-15-03:13:48:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-15-03:13:49:Extraction des données terminée. Démarrage du processus de transformation
+2025-Feb-15-03:13:49:Transformation des données terminée. Démarrage du processus de chargement
+2025-Feb-15-03:13:49:Données enregistrées dans le fichier CSV
+2025-Feb-15-03:13:49:Connexion SQL initiée
+2025-Feb-15-03:13:49:Données chargées dans la base de données sous forme de table, exécution des requêtes
+2025-Feb-15-03:13:49:	Processus terminé
+2025-Feb-15-03:13:49:Connexion au serveur fermée
+2025-Feb-15-03:16:16:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-15-03:17:11:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-15-03:17:12:Extraction des données terminée. Démarrage du processus de transformation
+2025-Feb-15-03:17:12:Transformation des données terminée. Démarrage du processus de chargement
+2025-Feb-15-03:17:12:Données enregistrées dans le fichier CSV
+2025-Feb-15-03:17:12:Connexion SQL initiée
+2025-Feb-15-03:17:48:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-15-03:17:49:Extraction des données terminée. Démarrage du processus de transformation
+2025-Feb-15-03:17:49:Transformation des données terminée. Démarrage du processus de chargement
+2025-Feb-15-03:17:49:Données enregistrées dans le fichier CSV
+2025-Feb-15-03:17:49:Connexion SQL initiée
+2025-Feb-15-03:17:49:Données chargées dans la base de données sous forme de table, exécution des requêtes
+2025-Feb-15-03:17:49:	Processus terminé
+2025-Feb-15-03:17:49:Connexion au serveur fermée
+2025-Feb-15-03:23:00:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-16-15:30:53:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-16-15:31:32:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-16-15:31:33:Extraction des données terminée. Démarrage du processus de transformation
+2025-Feb-16-15:31:34:Transformation des données terminée. Démarrage du processus de chargement
+2025-Feb-16-15:31:34:Données enregistrées dans le fichier CSV
+2025-Feb-16-15:31:34:Connexion SQL initiée
+2025-Feb-16-15:31:34:Données chargées dans la base de données sous forme de table, exécution des requêtes
+2025-Feb-16-15:31:34:	Processus terminé
+2025-Feb-16-15:31:34:Connexion au serveur fermée
+2025-Feb-16-15:32:22:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-16-15:32:53:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-16-15:33:08:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-16-15:34:49:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-16-15:35:22:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-16-15:35:24:Extraction des données terminée. Démarrage du processus de transformation
+2025-Feb-16-15:35:24:Transformation des données terminée. Démarrage du processus de chargement
+2025-Feb-16-15:35:24:Données enregistrées dans le fichier CSV
+2025-Feb-16-15:35:24:Connexion SQL initiée
+2025-Feb-16-15:35:24:Données chargées dans la base de données sous forme de table, exécution des requêtes
+2025-Feb-16-15:35:24:	Processus terminé
+2025-Feb-16-15:35:24:Connexion au serveur fermée
+2025-Feb-16-15:36:35:Préliminaires terminés. Démarrage du processus ETL
+2025-Feb-16-15:36:37:Extraction des données terminée. Démarrage du processus de transformation
+2025-Feb-16-15:36:37:Transformation des données terminée. Démarrage du processus de chargement
+2025-Feb-16-15:36:37:Données enregistrées dans le fichier CSV
+2025-Feb-16-15:36:37:Connexion SQL initiée
+2025-Feb-16-15:36:37:Données chargées dans la base de données sous forme de table, exécution des requêtes
+2025-Feb-16-15:36:37:	Processus terminé
+2025-Feb-16-15:36:37:Connexion au serveur fermée
